@@ -1,7 +1,6 @@
 # cybersecurity-and-ethical-hacking
 FILE INTEGRITY  CHECKER USING PYTHON
 
-⚠️ _This project is intended for educational and research use only. Ensure that it is used ethically and within authorized environments._
 
 ---
 
